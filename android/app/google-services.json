@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1019845614086",
+    "project_id": "laramise-3f362",
+    "storage_bucket": "laramise-3f362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019845614086:android:cd23bde8a9c777dcbb0187",
+        "android_client_info": {
+          "package_name": "com.example.mise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtvjcJoMGwzQCCfMlK85sSdK8KpwGrKXE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
